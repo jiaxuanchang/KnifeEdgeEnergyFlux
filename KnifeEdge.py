@@ -20,7 +20,7 @@ def knifeedge(delta,nmodes):
     ------
 
              
-    JX. Chang          
+    JX. Chang  Mar 20, 2023
     """
     
     import numpy as np
